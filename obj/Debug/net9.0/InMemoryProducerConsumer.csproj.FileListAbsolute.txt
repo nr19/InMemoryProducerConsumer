@@ -1,0 +1,14 @@
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/bin/Debug/net9.0/InMemoryProducerConsumer
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/bin/Debug/net9.0/InMemoryProducerConsumer.deps.json
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/bin/Debug/net9.0/InMemoryProducerConsumer.runtimeconfig.json
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/bin/Debug/net9.0/InMemoryProducerConsumer.dll
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/bin/Debug/net9.0/InMemoryProducerConsumer.pdb
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.AssemblyInfoInputs.cache
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.AssemblyInfo.cs
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.csproj.CoreCompileInputs.cache
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.dll
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/refint/InMemoryProducerConsumer.dll
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.pdb
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/InMemoryProducerConsumer.genruntimeconfig.cache
+/Users/nikhilrajawat/Downloads/GitHubProjects/InMemoryProducerConsumer/InMemoryProducerConsumer/obj/Debug/net9.0/ref/InMemoryProducerConsumer.dll
